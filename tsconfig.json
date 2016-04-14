@@ -1,0 +1,6 @@
+{
+    "files": [
+        "bluebird.d.ts",
+        "typings/main.d.ts"
+    ]
+}
